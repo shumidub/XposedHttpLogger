@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HttpLogger</string>
+    <string name="activity_text">This is HTTP LOGGER Xposed module! \nAnd it is ON now. </string>
+</resources>
